@@ -30,6 +30,8 @@
 
 #### [Distribuidora Sousa — Sistema de estoque e balcão](https://github.com/juan1992tj1-prog/distribuidora-sousa)
 
+▶ **[Abrir a demo online](https://distribuidora-sousa.vercel.app)** (dados fictícios, entra com um clique) · 🌐 **[Meu portfólio](https://juan1992tj1-prog.github.io)**
+
 Sistema web completo para uma distribuidora de bebidas, feito para rodar num mini-PC dentro da loja.
 
 - 📦 Estoque por **lote e validade (FEFO)**: sai primeiro o que vence primeiro, vencido nunca é vendido
