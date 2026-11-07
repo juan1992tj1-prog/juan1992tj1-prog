@@ -43,6 +43,11 @@ Sistema web completo para uma distribuidora de bebidas, feito para rodar num min
 
 `Next.js` · `TypeScript` · `PostgreSQL` · `Drizzle ORM` · `Tailwind` · `Docker` · `Vitest`
 
+### 🌐 Sites para clientes
+
+- **[Espaço Sousa](https://espacosousa.netlify.app/)** — espaço para festas em Aparecida de Goiânia: galeria com filtros, calendário de reservas com resumo do valor e pedido enviado pelo WhatsApp.
+- **[Anna Paula Lima — Psicóloga](https://annapaulalima.netlify.app/)** — site profissional com vídeo de apresentação, conteúdo em abas, perguntas frequentes e mensagem pronta para o WhatsApp.
+
 ---
 
 <p align="center"><i>Aberto a oportunidades e trocas de conhecimento.</i></p>
