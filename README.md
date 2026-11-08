@@ -24,6 +24,7 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
   <img src="https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white" alt="Vitest">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C">
+<img src="https://img.shields.io/badge/Claude_API-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude API">
 </p>
 
 ### 🚀 Projeto em destaque
@@ -39,9 +40,10 @@ Sistema web completo para uma distribuidora de bebidas, feito para rodar num min
 - 🛒 **PDV** com leitor de código de barras/QR (EAN, GS1, DataMatrix), troco, Pix, cartão e fiado
 - 💰 **Caixa** com abertura, sangria e **fechamento cego** (esperado × contado)
 - 📈 Painel com curva ABC, alertas de vencimento e **sugestão de compra** pelo giro
+- 🤖 **Leitura de nota com IA** (API do Claude): PDF ou foto do DANFE vira lista de itens validada para a conferência cega
 - ✅ Regras de negócio cobertas por **testes automatizados** em PostgreSQL em memória
 
-`Next.js` · `TypeScript` · `PostgreSQL` · `Drizzle ORM` · `Tailwind` · `Docker` · `Vitest`
+`Next.js` · `TypeScript` · `PostgreSQL` · `Drizzle ORM` · `Tailwind` · `Docker` · `Vitest` · `Claude API`
 
 ### 🌐 Sites para clientes
 
